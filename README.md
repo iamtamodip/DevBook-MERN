@@ -1,4 +1,4 @@
-## **Sample of the web app**
+# **Sample of the web app**
 You can watch the site here [Click me!](https://fb-mern-111ea.web.app/)
 
 
