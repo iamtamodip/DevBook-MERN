@@ -1,5 +1,5 @@
-# **Sample of the web app**
-You can watch the site here [Click me!](https://fb-mern-111ea.web.app/)
+# **Sample of the Web Application**
+## You can watch the site here [Click me!](https://fb-mern-111ea.web.app/)
 
 
 # Getting Started with Create React App
